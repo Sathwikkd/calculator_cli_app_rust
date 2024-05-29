@@ -1,5 +1,7 @@
 # CLI Calculator
 
+![Calculator CLI App](https://github.com/Sathwikkd/calculator_cli_app_rust/blob/main/ex_img/ex_1.png)
+
 ![CLI Calculator](https://img.shields.io/badge/rust-v1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
